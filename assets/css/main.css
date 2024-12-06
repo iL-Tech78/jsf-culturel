@@ -1358,9 +1358,9 @@ section,
   padding-bottom: 20px;
 }
 
-.features .tab-pane p {
+/* .features .tab-pane p {
   text-align: justify;
-}
+} */
 
 .features .tab-pane h3:after {
   content: "";
